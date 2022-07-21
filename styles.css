@@ -1,0 +1,86 @@
+li {
+  list-style: none;
+}
+
+form {
+  text-align: right;
+}
+
+input {
+  width: 180px;
+  border-radius: 4px;
+}
+
+i {
+  text-align: center;
+  font-size: 28px;
+}
+
+ul {
+  margin: 10px 60px;
+  font-size: 18px;
+}
+
+.date {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.displayed-locality {
+  margin: 0px 60px;
+}
+
+.left {
+  margin-bottom: 20px;
+}
+
+.card {
+  max-width: 900px;
+  display: block;
+  margin: 20px auto;
+}
+
+.app-content {
+  padding: 20px;
+}
+
+.input {
+  margin-bottom: 5px;
+  padding-top: 10px;
+}
+
+.temperature {
+  font-size: 40px;
+  padding-top: 15px;
+}
+
+.day {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.day-temp {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.night-temp {
+  text-align: center;
+  font-size: 18px;
+}
+
+.card-icon {
+  display: block;
+  margin: 20px auto;
+}
+
+#cels,
+#fahr {
+  font-size: 18px;
+  text-decoration: none;
+}
