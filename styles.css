@@ -79,6 +79,12 @@ ul {
   margin: 20px auto;
 }
 
+.opensource {
+  max-width: 900px;
+  display: block;
+  margin: 20px auto;
+}
+
 #cels,
 #fahr {
   font-size: 18px;
